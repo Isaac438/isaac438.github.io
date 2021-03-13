@@ -2,4 +2,4 @@
 
 ## Please pick a game to play!
 
-<https://isaac438.github.io/Airplane-Traffic/>
+[Airplane Traffic!](https://isaac438.github.io/Airplane-Traffic/)
